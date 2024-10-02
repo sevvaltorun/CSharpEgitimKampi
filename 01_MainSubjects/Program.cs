@@ -111,7 +111,7 @@ namespace _01_MainSubjects
             int sumTotalPrice = totalLemonadePrice + totalPizzaPrice + totalFriesPrice + totalCokePrice + totalWaterPrice + totalHambugerPrice;
             Console.WriteLine("Summart Total:"+ sumTotalPrice);
 
-
+            //end of the first day
             #endregion
 
             Console.Read();
