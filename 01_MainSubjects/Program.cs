@@ -16,7 +16,7 @@ namespace _01_MainSubjects
             //Console.Read();
             #endregion
 
-            #region Values:
+            #region Variables:
 
             string name = "sevval";
             //Console.WriteLine(name);
@@ -46,7 +46,7 @@ namespace _01_MainSubjects
 
             #endregion
 
-            #region Int Values:
+            #region Int Variable:
 
             int hamburgerPrice = 300;
             int cokePrice = 35;
@@ -113,6 +113,7 @@ namespace _01_MainSubjects
 
             //end of the first day
             #endregion
+
 
             Console.Read();
         }
