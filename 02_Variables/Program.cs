@@ -74,35 +74,35 @@ namespace _02_Variables
 
             #region Input-Type String
 
-            //Console.WriteLine("***********TRN Airlines************");
-            //Console.WriteLine();
+            Console.WriteLine("***********TRN Airlines************");
+            Console.WriteLine();
 
-            //string passengerName, passengerSurname, passengerDistrict, passengerCity, passengerAge, passengerIdentityNumber;
+            string passengerName, passengerSurname, passengerDistrict, passengerCity, passengerAge, passengerIdentityNumber;
 
-            //Console.Write("Passanger Name Please: ");
-            //passengerName = Console.ReadLine();
+            Console.Write("Passanger Name Please: ");
+            passengerName = Console.ReadLine();
 
-            //Console.Write("Passanger Surname Please: ");
-            //passengerSurname = Console.ReadLine();
+            Console.Write("Passanger Surname Please: ");
+            passengerSurname = Console.ReadLine();
 
-            //Console.Write("Passenger District Please: ");
-            //passengerDistrict = Console.ReadLine();
+            Console.Write("Passenger District Please: ");
+            passengerDistrict = Console.ReadLine();
 
-            //Console.Write("Passenger City Please: ");
-            //passengerCity = Console.ReadLine();
+            Console.Write("Passenger City Please: ");
+            passengerCity = Console.ReadLine();
 
-            //Console.Write("Passenger Age Please: ");
-            //passengerAge = Console.ReadLine();
+            Console.Write("Passenger Age Please: ");
+            passengerAge = Console.ReadLine();
 
-            //Console.Write("Passenger Identity Number Please: ");
-            //passengerIdentityNumber = Console.ReadLine();
+            Console.Write("Passenger Identity Number Please: ");
+            passengerIdentityNumber = Console.ReadLine();
 
-            //Console.WriteLine();
+            Console.WriteLine();
 
-            //Console.WriteLine("-----------------------------");
-            //Console.WriteLine("Passanger Info.: " + passengerName + " " + passengerSurname);
-            //Console.WriteLine("Passenger Other Info.: " + passengerDistrict + "/" + passengerCity + " Age: " + passengerAge);
-            //Console.WriteLine("Passenger Identity Num.: " + passengerIdentityNumber);
+            Console.WriteLine("-----------------------------");
+            Console.WriteLine("Passanger Info.: " + passengerName + " " + passengerSurname);
+            Console.WriteLine("Passenger Other Info.: " + passengerDistrict + "/" + passengerCity + " Age: " + passengerAge);
+            Console.WriteLine("Passenger Identity Num.: " + passengerIdentityNumber);
 
 
             #endregion

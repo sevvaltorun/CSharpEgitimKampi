@@ -18,29 +18,29 @@ namespace _01_MainSubjects
 
             #region Variables:
 
-            string name = "sevval";
+            //string name = "sevval";
+            ////Console.WriteLine(name);
+            //string surname;
+            ////same attribu
+            //surname = "torun";
+            ////Console.WriteLine(surname);
+
+            //string phoneNumber, city, email;
+            //phoneNumber = "+901234567890";
+            //city = "Kocaeli";
+            //email = "sevval@st.com";
+            ////Console.WriteLine(phoneNumber);
+            ////Console.WriteLine(city);
+            ////Console.WriteLine(email);
+
+            //Console.Write("Kişi Bilgileri:");
+            //Console.WriteLine(name + surname);
+            //Console.WriteLine("Telefon Numarası: " + phoneNumber );
+            //Console.WriteLine("E-Mail Adresi: " + email);
+            //Console.WriteLine("Yasadıgı Sehir: " + city);
+
+            //name = "ceyda";
             //Console.WriteLine(name);
-            string surname;
-            //same attribu
-            surname = "torun";
-            //Console.WriteLine(surname);
-
-            string phoneNumber, city, email;
-            phoneNumber = "+901234567890";
-            city = "Kocaeli";
-            email = "sevval@st.com";
-            //Console.WriteLine(phoneNumber);
-            //Console.WriteLine(city);
-            //Console.WriteLine(email);
-
-            Console.Write("Kişi Bilgileri:");
-            Console.WriteLine(name + surname);
-            Console.WriteLine("Telefon Numarası: " + phoneNumber );
-            Console.WriteLine("E-Mail Adresi: " + email);
-            Console.WriteLine("Yasadıgı Sehir: " + city);
-
-            name = "ceyda";
-            Console.WriteLine(name);
 
 
 
