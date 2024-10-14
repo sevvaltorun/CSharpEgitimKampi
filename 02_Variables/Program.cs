@@ -30,7 +30,7 @@ namespace _02_Variables
 
             //Console.OutputEncoding = Encoding.UTF8;
             //Console.WriteLine("---Apple Price:" + applePrice + "₺");
-            //Console.WriteLine("---Oramge Price:" + orangePrice + "₺");
+            //Console.WriteLine("---Orange Price:" + orangePrice + "₺");
             //Console.WriteLine("---Melon Price:" + melonPrice + "₺");
             //Console.WriteLine("---Potato Price:" + potatoPrice + "₺");
             //Console.WriteLine("---Tomato Price:" + tomatoPrice + "₺");
@@ -79,10 +79,10 @@ namespace _02_Variables
 
             string passengerName, passengerSurname, passengerDistrict, passengerCity, passengerAge, passengerIdentityNumber;
 
-            Console.Write("Passanger Name Please: ");
+            Console.Write("Passenger Name Please: ");
             passengerName = Console.ReadLine();
 
-            Console.Write("Passanger Surname Please: ");
+            Console.Write("Passenger Surname Please: ");
             passengerSurname = Console.ReadLine();
 
             Console.Write("Passenger District Please: ");
@@ -100,7 +100,7 @@ namespace _02_Variables
             Console.WriteLine();
 
             Console.WriteLine("-----------------------------");
-            Console.WriteLine("Passanger Info.: " + passengerName + " " + passengerSurname);
+            Console.WriteLine("Passenger Info.: " + passengerName + " " + passengerSurname);
             Console.WriteLine("Passenger Other Info.: " + passengerDistrict + "/" + passengerCity + " Age: " + passengerAge);
             Console.WriteLine("Passenger Identity Num.: " + passengerIdentityNumber);
 

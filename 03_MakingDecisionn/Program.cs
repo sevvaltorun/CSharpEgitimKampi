@@ -154,15 +154,15 @@ namespace _03_MakingDecision
 
             //if (team == 'F' || team == 'f')
             //{
-            //    Console.WriteLine("u're team name is FENERBAHCE");
+            //    Console.WriteLine("your team name is FENERBAHCE");
             //}
             //else if (team == 'G' || team == 'g')
             //{
-            //    Console.WriteLine("u're team name is GALATASARAY");
+            //    Console.WriteLine("your team name is GALATASARAY");
             //}
             //else if (team == 'B' || team == 'b')
             //{
-            //    Console.WriteLine("u're team name is BESİKTAS");
+            //    Console.WriteLine("your team name is BESİKTAS");
             //}
             //else 
             //{
