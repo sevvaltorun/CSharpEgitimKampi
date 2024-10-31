@@ -85,7 +85,7 @@ namespace _07_ForeachLoop
             #endregion
 
             #region Example Application:
-            //klavyeden öğrenci adı ve sayısı al sımav notlarını allaım be ortalama hesaplayalım 
+            //klavyeden öğrenci adı ve sayısı al sımav notlarını alalım ve ortalama hesaplayalım 
 
             Console.WriteLine("*****C# Bootcamp Exam Application*****");
 

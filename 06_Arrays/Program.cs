@@ -22,6 +22,7 @@ namespace _06_Arrays
             //{
             //    Console.WriteLine(item);
             //}
+
             //string[] cities= new string[5];
 
             //cities[0] = "Milano";
@@ -34,6 +35,7 @@ namespace _06_Arrays
             //Console.WriteLine(cities[0]);
             //Console.WriteLine(cities[3]);
             //Console.WriteLine(cities[5]); hata...
+
             //int[] numbers = new int[10];
             //numbers[0] = 12;
             //numbers[1] = 112;

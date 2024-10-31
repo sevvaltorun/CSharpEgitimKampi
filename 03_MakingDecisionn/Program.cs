@@ -96,7 +96,7 @@ namespace _03_MakingDecision
             //}
             //else
             //{
-            //    Console.WriteLine("Average: " + average + " ßit's declared");
+            //    Console.WriteLine("Average: " + average + " it's declared");
             //}
 
             //Console.Write("Please enter the admin: ");
@@ -111,6 +111,28 @@ namespace _03_MakingDecision
             //{
             //    Console.WriteLine("welcome " + admin);
             //}
+
+            //Console.Write("Bir karakter giriniz: ");
+            //char ch = char.Parse(Console.ReadLine());
+
+            //if (Char.IsUpper(ch))
+            //{
+            //    Console.WriteLine("Girilen karakter büyük bir karakterdir!");
+            //}
+            //else if (Char.IsLower(ch))
+            //{
+            //    Console.WriteLine("Girilen karakter küçük bir karakter!");
+            //}
+            //else if (Char.IsDigit(ch))
+            //{
+            //    Console.WriteLine("Girilen karakter bir rakamdır!");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Girilen karakter alfanumerik bir ifade değildir!");
+            //}
+
+
             #endregion
 
             #region Mod:
