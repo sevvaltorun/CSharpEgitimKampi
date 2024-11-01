@@ -8,7 +8,7 @@
 
 ## 🌻***Ders 2: Variables (double, char) & Input Types***
 
-Double ve Char değişkenlerinden bahsederek birer adet uygulamalarını içeren mini projeler yazdık. Geçtiğimiz derste ve bu derste öğrendiğimiz bütün değişken türlerinden, nasıl kullanıcıdan veri alırız bunu öğrendik.Bütün değişkenleri ve kullanıcı veri girişini örnekleyen bir mini proje yazdık. 
+Double ve Char değişkenlerinden bahsederek birer adet uygulamalarını içeren mini projeler yazdık. Geçtiğimiz derste ve bu derste öğrendiğimiz bütün değişken türlerinden, kullanıcıdan nasıl veri alırız bunu öğrendik.Bütün değişkenleri ve kullanıcı veri girişini örnekleyen bir mini proje yazdık. 
 
 ## 🌻***Ders 3: Decision Making***
 
