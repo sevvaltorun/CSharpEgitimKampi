@@ -78,7 +78,7 @@ namespace _08_Methods
 
             #endregion
 
-            #region Geriye Deger Döndüren Metotlar
+            #region Geriye Deger Döndüren Metotlar:
 
             //string CustomerName()
             //{
@@ -100,7 +100,7 @@ namespace _08_Methods
 
             #endregion
 
-            #region Geriye Deger Döndüren String Parametreli Metotlar
+            #region Geriye Deger Döndüren String Parametreli Metotlar:
 
             //string CountryCard( string countryName, string capitalName, string flagColor )
             //{
@@ -123,7 +123,7 @@ namespace _08_Methods
             //Console.WriteLine(CountryCard("Italy","Roma","white, red and green"));
             #endregion
 
-            #region Geriye Deger Döndüren Int Parametreli Metotlar
+            #region Geriye Deger Döndüren Int Parametreli Metotlar:
 
             //int Sum(int number1, int number2)
             //{
