@@ -127,24 +127,24 @@ namespace _04_Loops
             //289
             //sum of 3-digit numbers entered from the keyboard:
 
-            //int number;
+            int number;
 
-            //Console.Write("Please enter the number: ");
-            //number = int.Parse(Console.ReadLine());
+            Console.Write("Please enter the number: ");
+            number = int.Parse(Console.ReadLine());
 
-            //int ones, tens, hundreds;
-            //int sum;
+            int ones, tens, hundreds;
+            int sum;
 
-            //ones = number % 10; //ones true
-            //tens = (number % 100)/10 ; // 
-            //hundreds = number / 100; // true
+            ones = number % 10; //ones true
+            tens = (number % 100) / 10; // 
+            hundreds = number / 100; // true
 
-            //Console.WriteLine("Ones: " + ones);
-            //Console.WriteLine("Tens:" + tens);
-            //Console.WriteLine("Hundreds: " + hundreds);
-            //sum= ones + tens + hundreds;
-            
-            //Console.WriteLine("SUM OF DIGITS: " +sum);
+            Console.WriteLine("Ones: " + ones);
+            Console.WriteLine("Tens:" + tens);
+            Console.WriteLine("Hundreds: " + hundreds);
+            sum = ones + tens + hundreds;
+
+            Console.WriteLine("SUM OF DIGITS: " + sum);
             #endregion
 
             Console.Read();

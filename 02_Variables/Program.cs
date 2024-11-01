@@ -162,6 +162,7 @@ namespace _02_Variables
             //Console.WriteLine( "Your Gender is: "+ gender);
 
             #endregion
+
             Console.Read();
         }
     }
