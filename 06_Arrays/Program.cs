@@ -86,7 +86,7 @@ namespace _06_Arrays
             //string[] persons = { "ali", "cem", "can", "nil", "su"};
             //Console.WriteLine(persons.Length);
 
-            //sıralı yazar
+            //SIRALI YAZAR 
             //int[] numbers = { 1, 2, 5, 78, 333, 1023, 22, 7 };
             //Array.Sort(numbers);
             //for (int i = 0; i < numbers.Length; i++)
@@ -146,26 +146,26 @@ namespace _06_Arrays
             //}
 
             //Console.WriteLine(sum);
-            int[] numbers = { 11, 21, 36, 46, 56, 586, 87, 98, 99, 100 };
+            //int[] numbers = { 11, 21, 36, 46, 56, 586, 87, 98, 99, 100 };
 
-            Console.WriteLine("Double Numbers: ");
-            for (int i = 0; i < numbers.Length; i++)
-            {
-                if (numbers[i] % 2 == 0)
-                {
-                    Console.WriteLine(numbers[i]);
-                }
-            }
-            Console.WriteLine("--------------------------------------");
+            //Console.WriteLine("Double Numbers: ");
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    if (numbers[i] % 2 == 0)
+            //    {
+            //        Console.WriteLine(numbers[i]);
+            //    }
+            //}
+            //Console.WriteLine("--------------------------------------");
 
-            Console.WriteLine("Single Numbers: ");
-            for (int i = 0; i < numbers.Length; i++)
-            {
-                if (numbers[i] % 2 == 1)
-                {
-                    Console.WriteLine(numbers[i]);
-                }
-            }
+            //Console.WriteLine("Single Numbers: ");
+            //for (int i = 0; i < numbers.Length; i++)
+            //{
+            //    if (numbers[i] % 2 == 1)
+            //    {
+            //        Console.WriteLine(numbers[i]);
+            //    }
+            //}
             #endregion
             Console.Read();
         }

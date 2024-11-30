@@ -14,8 +14,8 @@ namespace _02_Variables
         {
             #region Double Variable:
 
-            ////double number = 20.15;
-            ////Console.WriteLine(number);
+            //double number = 20.15;
+            //Console.WriteLine(number);
 
             //Console.WriteLine("***********PRICE LIST***********");
             //Console.WriteLine();
@@ -41,10 +41,10 @@ namespace _02_Variables
             //orangeGram = 2.650;
             //melonGram = 0.750;
             //potatoGram = 4.859;
-            //tomatoGram =3.745;
+            //tomatoGram = 3.745;
 
             //double appleTotalPrice = appleGram * applePrice;
-            //Console.WriteLine("*-*-*-*-Apple Total Price:"+ appleTotalPrice + "₺");
+            //Console.WriteLine("*-*-*-*-Apple Total Price:" + appleTotalPrice + "₺");
 
             //double orangeTotalPrice = orangeGram * orangePrice;
             //Console.WriteLine("*-*-*-*-Orange Total Price:" + orangeTotalPrice + "₺");
@@ -56,10 +56,10 @@ namespace _02_Variables
             //Console.WriteLine("*-*-*-*-Potato Total Price:" + potatoTotalPrice + "₺");
 
             //double tomatoTotalPrice = tomatoGram * tomatoPrice;
-            //Console.WriteLine("*-*-*-*-Apple Total Price:" + tomatoTotalPrice + "₺");
+            //Console.WriteLine("*-*-*-*-Tomato Total Price:" + tomatoTotalPrice + "₺");
 
             //double shoppingSumTotal;
-            //shoppingSumTotal= appleTotalPrice + orangeTotalPrice + potatoTotalPrice + melonTotalPrice + tomatoTotalPrice;
+            //shoppingSumTotal = appleTotalPrice + orangeTotalPrice + potatoTotalPrice + melonTotalPrice + tomatoTotalPrice;
             //Console.WriteLine();
             //Console.WriteLine("^^^^Shopping Total:" + shoppingSumTotal + "₺");
             #endregion
@@ -74,35 +74,35 @@ namespace _02_Variables
 
             #region Input-Type String
 
-            Console.WriteLine("***********TRN Airlines************");
-            Console.WriteLine();
+            //Console.WriteLine("***********TRN Airlines************");
+            //Console.WriteLine();
 
-            string passengerName, passengerSurname, passengerDistrict, passengerCity, passengerAge, passengerIdentityNumber;
+            //string passengerName, passengerSurname, passengerDistrict, passengerCity, passengerAge, passengerIdentityNumber;
 
-            Console.Write("Passenger Name Please: ");
-            passengerName = Console.ReadLine();
+            //Console.Write("Passenger Name Please: ");
+            //passengerName = Console.ReadLine();
 
-            Console.Write("Passenger Surname Please: ");
-            passengerSurname = Console.ReadLine();
+            //Console.Write("Passenger Surname Please: ");
+            //passengerSurname = Console.ReadLine();
 
-            Console.Write("Passenger District Please: ");
-            passengerDistrict = Console.ReadLine();
+            //Console.Write("Passenger District Please: ");
+            //passengerDistrict = Console.ReadLine();
 
-            Console.Write("Passenger City Please: ");
-            passengerCity = Console.ReadLine();
+            //Console.Write("Passenger City Please: ");
+            //passengerCity = Console.ReadLine();
 
-            Console.Write("Passenger Age Please: ");
-            passengerAge = Console.ReadLine();
+            //Console.Write("Passenger Age Please: ");
+            //passengerAge = Console.ReadLine();
 
-            Console.Write("Passenger Identity Number Please: ");
-            passengerIdentityNumber = Console.ReadLine();
+            //Console.Write("Passenger Identity Number Please: ");
+            //passengerIdentityNumber = Console.ReadLine();
 
-            Console.WriteLine();
+            //Console.WriteLine();
 
-            Console.WriteLine("-----------------------------");
-            Console.WriteLine("Passenger Info.: " + passengerName + " " + passengerSurname);
-            Console.WriteLine("Passenger Other Info.: " + passengerDistrict + "/" + passengerCity + " Age: " + passengerAge);
-            Console.WriteLine("Passenger Identity Num.: " + passengerIdentityNumber);
+            //Console.WriteLine("-----------------------------");
+            //Console.WriteLine("Passenger Info.: " + passengerName + " " + passengerSurname);
+            //Console.WriteLine("Passenger Other Info.: " + passengerDistrict + "/" + passengerCity + " Age: " + passengerAge);
+            //Console.WriteLine("Passenger Identity Num.: " + passengerIdentityNumber);
 
 
             #endregion
@@ -113,7 +113,7 @@ namespace _02_Variables
             //shoesPrice = 100;
             //computerPrice = 6000;
             //chairPrice = 50;
-            //tvPrice =12000;
+            //tvPrice = 12000;
 
             //int shoesCount, computerCount, chairCount, tvCount;
             //Console.Write("Aldığınız ayakkabı miktarini giriniz: ");
@@ -128,9 +128,11 @@ namespace _02_Variables
             //Console.Write("Aldığınız tv miktarini giriniz: ");
             //tvCount = int.Parse(Console.ReadLine());
 
+            //Console.OutputEncoding = Encoding.UTF8;
+
             //int totalPrice = shoesCount * shoesPrice + computerPrice * computerCount + chairPrice * chairCount + tvPrice * tvCount;
             //Console.WriteLine();
-            //Console.WriteLine(totalPrice);
+            //Console.WriteLine("Alisveris sonuda odenemiz gereken fiyat: " +totalPrice + " ₺");
             #endregion
 
             #region Ondalıklı Sayı İşlemleri

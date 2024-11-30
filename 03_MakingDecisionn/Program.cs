@@ -13,10 +13,10 @@ namespace _03_MakingDecision
         {
 
             #region IF:
-            // be careful!
+            //   be careful!
             //int age;
-            //Console.Write("Please enter the number");
-            //age = int.Parse(Console.ReadLine()); 
+            //Console.Write("Please enter the number: ");
+            //age = int.Parse(Console.ReadLine());
 
 
             //string password;
@@ -28,19 +28,19 @@ namespace _03_MakingDecision
             //    Console.WriteLine("Password is TRUE");
             //}
 
-            //else 
+            //else
             //{
             //    Console.WriteLine("Password is FALSE");
             //}
 
             //string province, country;
             //Console.Write("Please enter the capital: ");
-            //province= Console.ReadLine();
+            //province = Console.ReadLine();
 
             //Console.Write("Please enter the country: ");
             //country = Console.ReadLine();
 
-            //if(province == "kocaeli" && country=="türkiye")
+            //if (province == "kocaeli" && country == "türkiye")
             //{
             //    Console.WriteLine("u're living in kocaeli/türkiye");
             //}
@@ -51,17 +51,17 @@ namespace _03_MakingDecision
             //}
 
             //int number;
-            //Console.Write("Please enter the number");
-            //number= int.Parse(Console.ReadLine());
+            //Console.Write("Please enter the number: ");
+            //number = int.Parse(Console.ReadLine());
 
-            //if(number == 22)
+            //if (number == 22)
             //{
             //    Console.WriteLine("true, number is 22");
             //}
 
             //else
             //{
-            //   Console.WriteLine("false, number isn't 22");
+            //    Console.WriteLine("false, number isn't 22");
             //}
 
             //int exam1, exam2, exam3;
@@ -78,7 +78,7 @@ namespace _03_MakingDecision
 
             //double average = (exam1 + exam2 + exam3) / 3;
 
-            //if (average == 0) 
+            //if (average == 0)
             //{
             //    Console.WriteLine("Average: " + average + " it's so bad so, u'll study hard..");
             //}
@@ -86,11 +86,11 @@ namespace _03_MakingDecision
             //{
             //    Console.WriteLine("Average: " + average + " it's developing so u'll study");
             //}
-            //else if (average>=50 )
+            //else if (average >= 50)
             //{
-            //   Console.WriteLine("Average: " + average + " it's good average but u'll study");
+            //    Console.WriteLine("Average: " + average + " it's good average but u'll study");
             //}
-            //else if(average==100)
+            //else if (average == 100)
             //{
             //    Console.WriteLine("Average: " + average + " Congrats!");
             //}
@@ -192,18 +192,18 @@ namespace _03_MakingDecision
             //}
             #endregion
 
-            #region Example Poject App.:
+            #region Example Project App.:
             //Console.WriteLine("*****MENU*****");
             //Console.WriteLine();
-            //Console.WriteLine("1-Main Meals");   
-            //Console.WriteLine("2-Pizzas");   
-            //Console.WriteLine("3-Drinks");   
+            //Console.WriteLine("1-Main Meals");
+            //Console.WriteLine("2-Pizzas");
+            //Console.WriteLine("3-Drinks");
             //Console.WriteLine("4-Desserts");
             //Console.WriteLine("****************");
 
             //int menuItems;
             //Console.Write("Please enter the your decisions for detail: ");
-            //menuItems =int.Parse(Console.ReadLine());
+            //menuItems = int.Parse(Console.ReadLine());
 
             //switch (menuItems)
             //{
@@ -233,7 +233,7 @@ namespace _03_MakingDecision
             //        Console.WriteLine("-----------------------");
             //        break;
 
-            //        case 4:
+            //    case 4:
             //        Console.WriteLine("-----------------------");
             //        Console.WriteLine("1-Magnolia");
             //        Console.WriteLine("2-Cake");
